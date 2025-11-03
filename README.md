@@ -44,7 +44,7 @@ El notebook incluye una sección donde se:
 - [A3.2_Redes_Neuronales.ipynb](A3.2_Redes_Neuronales.ipynb) → Notebook con entrenamiento, evaluación y pruebas.  
 - [real_time_prediction.py](real_time_prediction.py) → Script para predicción en tiempo real con cámara.  
 - [my_model.h5](my_model.h5) → Modelo entrenado y guardado.  
-- [test_digits/](test_digits/) → Carpeta con las 50 imágenes personalizadas (5 por dígito).  
+- [test_digits/](test_digits) → Carpeta con las 50 imágenes personalizadas (5 por dígito).  
 
 
 ---
