@@ -39,7 +39,7 @@ El notebook incluye una sección donde se:
 
 ---
 
-## ⚙️ **Archivos incluidos**
+## **Archivos incluidos**
 
 - [A3.2_Redes_Neuronales.ipynb](A3.2_Redes_Neuronales.ipynb) → Notebook con entrenamiento, evaluación y pruebas.  
 - [real_time_prediction.py](real_time_prediction.py) → Script para predicción en tiempo real con cámara.  
@@ -49,14 +49,10 @@ El notebook incluye una sección donde se:
 
 ---
 
-## 🔬 **Bibliotecas utilizadas**
+## **Bibliotecas utilizadas**
 
 - TensorFlow / Keras  
 - NumPy  
 - Matplotlib  
 - OpenCV  
 - Google Colab (para ejecución del entorno y captura de imágenes)  
-
-
-Profesor: *Dr. Antonio Martínez Torteya*  
-Año: 2025  
